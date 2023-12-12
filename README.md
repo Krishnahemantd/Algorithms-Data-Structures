@@ -10,4 +10,4 @@
 - Skipped Lists
 - Red-Black Trees
 - Binomial Heaps / Fibonacci Heaps
-- -Push Relabel (Max Flow)
+- Push Relabel (Max Flow)
